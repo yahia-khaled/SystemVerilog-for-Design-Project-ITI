@@ -1,0 +1,9 @@
+BEGIN 1:Final_system:fast:work
+    UART_TX_CLK :  1:SYS_TOP_TB:fast:work
+    o_busy_UART_TX :  1:SYS_TOP_TB:fast:work
+END 
+BEGIN 1:RegFile:fast:work
+    REG_FILE :  1:SYS_TOP_TB:fast:work
+    i_WrEn :  1:SYS_TOP_TB:fast:work
+    o_REG2 :  1:SYS_TOP_TB:fast:work
+END 

@@ -1,0 +1,14 @@
+../ALU/myPkg.sv
+../ALU/ALU.sv
+../Async_FIFO/*.*v
+../CLK_DIV/*.*v
+../Clock_Gating/*.*v
+../Data_sync/*.*v
+../Final_System/*.*v
+../Pulse_GEN/*.*v
+../RegFile/*.*v
+../RST_Sync/*.*v
+../System_ctrl/*.*v
+../SYSTEM_TOP/*.*v
+../UART_RX/*.*v
+../UART_TX/*.*v

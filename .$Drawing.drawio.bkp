@@ -1,0 +1,108 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="XaczEJIaJFo4K473trFy">
+    <mxGraphModel dx="921" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_TRIYVh5mdDNmVsviqNl-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+            <mxPoint x="370" y="310" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-4" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop_with_clear_2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_TRIYVh5mdDNmVsviqNl-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop_with_clear_2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.076;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_TRIYVh5mdDNmVsviqNl-8" target="_TRIYVh5mdDNmVsviqNl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-13" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_TRIYVh5mdDNmVsviqNl-9">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+            <mxPoint x="390" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="615" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-14" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_TRIYVh5mdDNmVsviqNl-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="425" y="220" as="sourcePoint" />
+            <mxPoint x="650" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-15" value="rst" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="208" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-16" value="rst_sync" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop_with_clear_2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.d_type_flip-flop_with_clear_2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="570" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.076;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_TRIYVh5mdDNmVsviqNl-17" target="_TRIYVh5mdDNmVsviqNl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_TRIYVh5mdDNmVsviqNl-17">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="290" y="610" as="sourcePoint" />
+            <mxPoint x="130" y="560" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-21" value="Signal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_TRIYVh5mdDNmVsviqNl-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="560" as="sourcePoint" />
+            <mxPoint x="720" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+          <mxGeometry x="840" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-28" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2" vertex="1" parent="1">
+          <mxGeometry x="730" y="480" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_TRIYVh5mdDNmVsviqNl-28" target="_TRIYVh5mdDNmVsviqNl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-30" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_TRIYVh5mdDNmVsviqNl-28">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="670" y="610" as="sourcePoint" />
+            <mxPoint x="840" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_TRIYVh5mdDNmVsviqNl-32" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_TRIYVh5mdDNmVsviqNl-26">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="510" y="610" as="sourcePoint" />
+            <mxPoint x="520" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

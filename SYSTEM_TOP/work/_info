@@ -1,0 +1,1076 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+Z3 !s12c _opt1
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 dE:/ITI/SystemVerilog for design/project/SYSTEM_TOP
+T_opt
+!s110 1771542038
+Vc^^aSz`M_beh?UU8MW]d30
+Z5 04 10 4 work SYS_TOP_TB fast 0
+=1-8c8caab55e75-69979616-1d1-4b58
+R1
+Z6 !s12f OEM100
+Z7 !s12b OEM100
+Z8 !s124 OEM100
+Z9 o-quiet -auto_acc_if_foreign -work work +acc
+Z10 tCvgOpt 0
+n@_opt
+Z11 OL;O;2024.1;79
+T_opt1
+!s110 1771513939
+VSmChZazajc0bORUf0D^Hg1
+R5
+=1-8c8caab55e75-69972853-8f-1604
+R1
+R6
+R7
+R8
+R9
+R10
+n@_opt1
+R11
+R4
+T_opt2
+!s110 1771539987
+VZkTkJ51KnzM>0<J@H@7D]1
+R5
+=1-8c8caab55e75-69978e12-2e8-4438
+R1
+R6
+R7
+R8
+R9
+R10
+n@_opt2
+R11
+R4
+vALU
+Z12 2../ALU/myPkg.sv|../ALU/ALU.sv|../Async_FIFO/Asynchronous_FIFO.sv|../Async_FIFO/DF_Sync.sv|../Async_FIFO/FIFO_empty.sv|../Async_FIFO/FIFO_full.sv|../Async_FIFO/FIFO_MEM.sv|../CLK_DIV/clk_div.sv|../CLK_DIV/clk_div_tb.sv|../Clock_Gating/clock_gating.sv|../Data_sync/Data_sync.sv|../Final_System/Final_system.sv|../Pulse_GEN/Pulse_GEN.sv|../RegFile/RegFile.sv|../RST_Sync/Reset_sync.sv|../System_ctrl/Pkg_sys_ctrl.sv|../System_ctrl/SYS_CTRL.sv|../SYSTEM_TOP/SYS_TOP_TB.sv|../SYSTEM_TOP/UART_RX_DEV_ratio.sv|../UART_RX/data_sampling.sv|../UART_RX/deserializer.sv|../UART_RX/edge_bit_cnt.sv|../UART_RX/parity_check.sv|../UART_RX/Stop_check.sv|../UART_RX/strt_check.sv|../UART_RX/UART_RX.sv|../UART_RX/UART_RX_FSM.sv|../UART_TX/FSM.sv|../UART_TX/MUX.sv|../UART_TX/Parity_check.sv|../UART_TX/serializer.sv|../UART_TX/UART_TX.sv
+Z13 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z14 DXx4 work 5 myPkg 0 22 IcYoNjh9]?dGPP8;zNzlV3
+DXx4 work 11 ALU_sv_unit 0 22 6loHm`WJP2olcHfXi:@=b0
+Z15 !s110 1771542032
+Z16 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 hkW<U@?NaDP:Km6c^Y3NG2
+IaJWaD6AfJA20>jO=0g0:f2
+!s105 ALU_sv_unit
+S1
+R4
+Z17 w1771513246
+Z18 8../ALU/ALU.sv
+Z19 F../ALU/ALU.sv
+!i122 61
+L0 2 86
+Z20 OL;L;2024.1;79
+31
+Z21 !s108 1771542032.000000
+Z22 !s107 ../UART_TX/UART_TX.sv|../UART_TX/serializer.sv|../UART_TX/Parity_check.sv|../UART_TX/MUX.sv|../UART_TX/FSM.sv|../UART_RX/UART_RX_FSM.sv|../UART_RX/UART_RX.sv|../UART_RX/strt_check.sv|../UART_RX/Stop_check.sv|../UART_RX/parity_check.sv|../UART_RX/edge_bit_cnt.sv|../UART_RX/deserializer.sv|../UART_RX/data_sampling.sv|../SYSTEM_TOP/UART_RX_DEV_ratio.sv|../SYSTEM_TOP/SYS_TOP_TB.sv|../System_ctrl/SYS_CTRL.sv|../System_ctrl/Pkg_sys_ctrl.sv|../RST_Sync/Reset_sync.sv|../RegFile/RegFile.sv|../Pulse_GEN/Pulse_GEN.sv|../Final_System/Final_system.sv|../Data_sync/Data_sync.sv|../Clock_Gating/clock_gating.sv|../CLK_DIV/clk_div_tb.sv|../CLK_DIV/clk_div.sv|../Async_FIFO/FIFO_MEM.sv|../Async_FIFO/FIFO_full.sv|../Async_FIFO/FIFO_empty.sv|../Async_FIFO/DF_Sync.sv|../Async_FIFO/Asynchronous_FIFO.sv|../ALU/ALU.sv|../ALU/myPkg.sv|
+Z23 !s90 -reportprogress|300|-f|sourcefile.txt|
+!i113 0
+Z24 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R10
+n@a@l@u
+XALU_sv_unit
+R12
+R13
+R14
+R15
+V6loHm`WJP2olcHfXi:@=b0
+r1
+!s85 0
+!i10b 1
+!s100 _0=Qe^zP`D4P;5C>6FdMj0
+I6loHm`WJP2olcHfXi:@=b0
+!i103 1
+S1
+R4
+R17
+R18
+R19
+!i122 61
+Z25 L0 1 0
+R20
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@a@l@u_sv_unit
+vAsynchronous_FIFO
+R12
+R13
+R15
+!i10b 1
+!s100 :l:UC=2KSVT_Oim?D9QnZ0
+IVMgGfSf[HS5nEHHJLF_L61
+S1
+R4
+w1770579828
+8../Async_FIFO/Asynchronous_FIFO.sv
+F../Async_FIFO/Asynchronous_FIFO.sv
+!i122 61
+L0 1 86
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@asynchronous_@f@i@f@o
+vclk_div
+R12
+R13
+R15
+!i10b 1
+!s100 @=:b8807DJ0^^z`jaS39X2
+IHcR7F_]Q[6502i7ThMZf@3
+S1
+R4
+w1771540578
+8../CLK_DIV/clk_div.sv
+F../CLK_DIV/clk_div.sv
+!i122 61
+Z26 L0 1 47
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vclk_div_tb
+R12
+R13
+R15
+!i10b 1
+!s100 RVfX8icPVAlhi8PHLVZ8Z3
+Ic_;L?Q?GTZHm@2]6O]B=41
+S1
+R4
+w1770580788
+8../CLK_DIV/clk_div_tb.sv
+F../CLK_DIV/clk_div_tb.sv
+!i122 61
+L0 1 46
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vclock_gating
+R12
+R13
+R15
+!i10b 1
+!s100 9k]`cISA??PG9W5f?haa<0
+I3BdZZn^Wf<GN2nHkC2EM02
+S1
+R4
+w1770574688
+8../Clock_Gating/clock_gating.sv
+F../Clock_Gating/clock_gating.sv
+!i122 61
+L0 1 19
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vdata_sampling
+R12
+R13
+R15
+!i10b 1
+!s100 b:?b=Szf9d:CbOW[?I8<53
+IfVKkQhZ7:6DOf^FVP?L4R2
+S1
+R4
+w1767461537
+8../UART_RX/data_sampling.sv
+F../UART_RX/data_sampling.sv
+!i122 61
+L0 1 112
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vData_sync
+R12
+R13
+R15
+!i10b 1
+!s100 `ihmQP1MFM=RBz9c4?:^[2
+IAFRK2Z8W_Fl:BdS?0fA[I0
+S1
+R4
+w1771515697
+8../Data_sync/Data_sync.sv
+F../Data_sync/Data_sync.sv
+!i122 61
+L0 1 39
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@data_sync
+vdeserializer
+R12
+R13
+R15
+!i10b 1
+!s100 gVIE>LHN3lO`JaN80PfG;3
+I5Qha>c;YOEe<o8AOX:5MU2
+S1
+R4
+w1767458148
+8../UART_RX/deserializer.sv
+F../UART_RX/deserializer.sv
+!i122 61
+L0 1 20
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vDF_Sync
+R12
+R13
+R15
+!i10b 1
+!s100 Pkk<P:B787db63Bz_WS:I0
+IJbjEFRM1km<UVXmQ2^[0U2
+S1
+R4
+w1770579884
+8../Async_FIFO/DF_Sync.sv
+F../Async_FIFO/DF_Sync.sv
+!i122 61
+L0 1 22
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@d@f_@sync
+vedge_bit_cnt
+R12
+R13
+R15
+!i10b 1
+!s100 fka`1=aN;];QAEY5SE01A3
+INjXCidA5=6naXk>:K;SK_2
+S1
+R4
+w1767451691
+8../UART_RX/edge_bit_cnt.sv
+F../UART_RX/edge_bit_cnt.sv
+!i122 61
+L0 1 58
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vFIFO_empty
+R12
+R13
+R15
+!i10b 1
+!s100 gN^f0EI<Lh=C@3Vc7UCA_2
+I:<`>bRC==O0<Y[0?Vm@LK1
+S1
+R4
+w1771525419
+8../Async_FIFO/FIFO_empty.sv
+F../Async_FIFO/FIFO_empty.sv
+!i122 61
+L0 1 44
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@f@i@f@o_empty
+vFIFO_full
+R12
+R13
+R15
+!i10b 1
+!s100 >bdD_QfT59I]]JJ?8A]2M3
+I3@El`a:EV]A03Ph>_l9YF1
+S1
+R4
+w1771519094
+8../Async_FIFO/FIFO_full.sv
+F../Async_FIFO/FIFO_full.sv
+!i122 61
+L0 1 43
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@f@i@f@o_full
+vFIFO_MEM
+R12
+R13
+R15
+!i10b 1
+!s100 l3m?McaH^Jn=nn[]1gM6`1
+I<2H6e3>?49M1=BRBPk3SL1
+S1
+R4
+w1771525428
+8../Async_FIFO/FIFO_MEM.sv
+F../Async_FIFO/FIFO_MEM.sv
+!i122 61
+L0 1 40
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@f@i@f@o_@m@e@m
+vFinal_system
+R12
+R13
+R14
+DXx4 work 20 Final_system_sv_unit 0 22 BaBD4?S5VS3;8AOD0B=5V3
+R15
+R16
+r1
+!s85 0
+!i10b 1
+!s100 b=GYJkai9[z6=<AbFb:c?0
+IkMo7:Whj`I3S6O?PJl^8W0
+!s105 Final_system_sv_unit
+S1
+R4
+Z27 w1771540368
+Z28 8../Final_System/Final_system.sv
+Z29 F../Final_System/Final_system.sv
+!i122 61
+L0 2 263
+R20
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@final_system
+XFinal_system_sv_unit
+R12
+R13
+R14
+R15
+VBaBD4?S5VS3;8AOD0B=5V3
+r1
+!s85 0
+!i10b 1
+!s100 :2hYX>^AoEd93aTBo[Q7M3
+IBaBD4?S5VS3;8AOD0B=5V3
+!i103 1
+S1
+R4
+R27
+R28
+R29
+!i122 61
+R25
+R20
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@final_system_sv_unit
+vFSM
+R12
+R13
+R15
+!i10b 1
+!s100 6CDE=Q<QlFbHcIUoQ[Mb`0
+I4kRAbA2DWDP_<k8GOm5RL3
+S1
+R4
+w1771529993
+8../UART_TX/FSM.sv
+F../UART_TX/FSM.sv
+!i122 61
+L0 1 122
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@f@s@m
+vMUX
+R12
+R13
+R15
+!i10b 1
+!s100 mioz7A4n^GVE?YODj0ZkN0
+IIXH3O^c7Tz_?6hee3Kn?N0
+S1
+R4
+w1766839231
+8../UART_TX/MUX.sv
+F../UART_TX/MUX.sv
+!i122 61
+Z30 L0 1 29
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@m@u@x
+XmyPkg
+R12
+R13
+R15
+!i10b 1
+!s100 kNT@[RJTlaH9d]H1:1<Z@0
+IIcYoNjh9]?dGPP8;zNzlV3
+S1
+R4
+w1771512499
+8../ALU/myPkg.sv
+F../ALU/myPkg.sv
+!i122 61
+R25
+VIcYoNjh9]?dGPP8;zNzlV3
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+nmy@pkg
+vParity_check
+R12
+R13
+R15
+!i10b 1
+!s100 :Th0=zF<FD3_Yo9gki1nd2
+I^gWbcN<g9IDFnb2l5V]Jl3
+S1
+R4
+w1766837572
+8../UART_TX/Parity_check.sv
+F../UART_TX/Parity_check.sv
+!i122 61
+R30
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@parity_check
+vparity_check
+R12
+R13
+R15
+!i10b 1
+!s100 Jc5<[0Y;V;BQ6;>PB3PWS0
+IDh8K9>9>`MdgP9deFW8KW1
+S1
+R4
+w1767457801
+8../UART_RX/parity_check.sv
+F../UART_RX/parity_check.sv
+!i122 61
+R26
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+XPkg_sys_ctrl
+R12
+R13
+R15
+!i10b 1
+!s100 mSAnSGbzZ`IX7V9>b:A`63
+IC]O3OCZkOD2T>8=Jj==Vg1
+S1
+R4
+w1771528683
+8../System_ctrl/Pkg_sys_ctrl.sv
+F../System_ctrl/Pkg_sys_ctrl.sv
+!i122 61
+R25
+VC]O3OCZkOD2T>8=Jj==Vg1
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@pkg_sys_ctrl
+vPulse_GEN
+R12
+R13
+R15
+!i10b 1
+!s100 KiFVQoe9]ZAX17P;o3dTG1
+I>41>Kikz[3O?EfB?0?g>63
+S1
+R4
+w1771526038
+8../Pulse_GEN/Pulse_GEN.sv
+F../Pulse_GEN/Pulse_GEN.sv
+!i122 61
+Z31 L0 1 23
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@pulse_@g@e@n
+vRegFile
+R12
+R13
+R15
+!i10b 1
+!s100 V;gACS:J=Ae;FeW9]F9@I2
+IkHjHZaKZPbN?FMK_EPmH03
+S1
+R4
+w1771513314
+8../RegFile/RegFile.sv
+F../RegFile/RegFile.sv
+!i122 61
+L0 1 62
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@reg@file
+vReset_sync
+R12
+R13
+R15
+!i10b 1
+!s100 i2Q=Y4c`6<XD:6YDh_T@S2
+ILT^@IgbjVEg1ZUEVZ5PaA2
+S1
+R4
+w1771137563
+8../RST_Sync/Reset_sync.sv
+F../RST_Sync/Reset_sync.sv
+!i122 61
+L0 1 21
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@reset_sync
+vserializer
+R12
+R13
+R15
+!i10b 1
+!s100 ]:Rg5^6iMb;?iePLH>^R02
+IS>CzB[TMC1M8iJQV^Cj:53
+S1
+R4
+w1771527003
+8../UART_TX/serializer.sv
+F../UART_TX/serializer.sv
+!i122 61
+R26
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vStop_check
+R12
+R13
+R15
+!i10b 1
+!s100 =C=l7>akm_Ng[OU=]MYkV0
+I]E1]8RSfM?UeP<Zi=O4]c1
+S1
+R4
+w1767448718
+8../UART_RX/Stop_check.sv
+F../UART_RX/Stop_check.sv
+!i122 61
+Z32 L0 1 10
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@stop_check
+vstrt_check
+R12
+R13
+R15
+!i10b 1
+!s100 D=?HLYV<iX[8m>Qmb[XR53
+I;g:HVgO[1Ob[?GTPn9zBF3
+S1
+R4
+w1767448709
+8../UART_RX/strt_check.sv
+F../UART_RX/strt_check.sv
+!i122 61
+R32
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+vSYS_CTRL
+R12
+R13
+Z33 DXx4 work 12 Pkg_sys_ctrl 0 22 C]O3OCZkOD2T>8=Jj==Vg1
+R14
+DXx4 work 16 SYS_CTRL_sv_unit 0 22 k[miGFbi@AdCLj1D2DG=S1
+R15
+R16
+r1
+!s85 0
+!i10b 1
+!s100 L9EfJg4In>Df`3JYfoNdK3
+Ia7iiJ2eXEioZGV2=TZoH30
+!s105 SYS_CTRL_sv_unit
+S1
+R4
+Z34 w1771530832
+Z35 8../System_ctrl/SYS_CTRL.sv
+Z36 F../System_ctrl/SYS_CTRL.sv
+!i122 61
+L0 3 215
+R20
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@s@y@s_@c@t@r@l
+XSYS_CTRL_sv_unit
+R12
+R13
+R33
+R14
+R15
+Vk[miGFbi@AdCLj1D2DG=S1
+r1
+!s85 0
+!i10b 1
+!s100 M`6W@3>FGJDZzoM<DGadY1
+Ik[miGFbi@AdCLj1D2DG=S1
+!i103 1
+S1
+R4
+R34
+R35
+R36
+!i122 61
+R25
+R20
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@s@y@s_@c@t@r@l_sv_unit
+vSYS_TOP_TB
+R12
+R13
+R15
+!i10b 1
+!s100 ?Lg@@_1BXhgUR:ZYdYi]B2
+IPij[R1iV52`z8=V9`o87z1
+S1
+R4
+w1771542027
+Z37 8../SYSTEM_TOP/SYS_TOP_TB.sv
+Z38 F../SYSTEM_TOP/SYS_TOP_TB.sv
+!i122 61
+L0 3 782
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@s@y@s_@t@o@p_@t@b
+vSYS_TOP_TBBBB
+2../ALU/myPkg.sv|../ALU/ALU.sv|../Async_FIFO/Asynchronous_FIFO.sv|../Async_FIFO/DF_Sync.sv|../Async_FIFO/FIFO_empty.sv|../Async_FIFO/FIFO_full.sv|../Async_FIFO/FIFO_MEM.sv|../CLK_DIV/clk_div.sv|../CLK_DIV/clk_div_tb.sv|../Clock_Gating/clock_gating.sv|../Data_sync/Data_sync.sv|../Final_System/Final_system.sv|../Pulse_GEN/Pulse_GEN.sv|../RegFile/RegFile.sv|../RST_Sync/Reset_sync.sv|../System_ctrl/Pkg_sys_ctrl.sv|../System_ctrl/SYS_CTRL.sv|../SYSTEM_TOP/SYS_TOP_TB.sv|../UART_RX/data_sampling.sv|../UART_RX/deserializer.sv|../UART_RX/edge_bit_cnt.sv|../UART_RX/parity_check.sv|../UART_RX/Stop_check.sv|../UART_RX/strt_check.sv|../UART_RX/UART_RX.sv|../UART_RX/UART_RX_FSM.sv|../UART_TX/FSM.sv|../UART_TX/MUX.sv|../UART_TX/Parity_check.sv|../UART_TX/serializer.sv|../UART_TX/UART_TX.sv
+R13
+!s110 1771512293
+!i10b 1
+!s100 L<41>c^:AO?64R`OGG_X40
+I^SmSgLDRb6bMd9]I:d:^k1
+S1
+R4
+w1771511965
+R37
+R38
+!i122 19
+L0 3 783
+R16
+R20
+r1
+!s85 0
+31
+!s108 1771512293.000000
+!s107 ../UART_TX/UART_TX.sv|../UART_TX/serializer.sv|../UART_TX/Parity_check.sv|../UART_TX/MUX.sv|../UART_TX/FSM.sv|../UART_RX/UART_RX_FSM.sv|../UART_RX/UART_RX.sv|../UART_RX/strt_check.sv|../UART_RX/Stop_check.sv|../UART_RX/parity_check.sv|../UART_RX/edge_bit_cnt.sv|../UART_RX/deserializer.sv|../UART_RX/data_sampling.sv|../SYSTEM_TOP/SYS_TOP_TB.sv|../System_ctrl/SYS_CTRL.sv|../System_ctrl/Pkg_sys_ctrl.sv|../RST_Sync/Reset_sync.sv|../RegFile/RegFile.sv|../Pulse_GEN/Pulse_GEN.sv|../Final_System/Final_system.sv|../Data_sync/Data_sync.sv|../Clock_Gating/clock_gating.sv|../CLK_DIV/clk_div_tb.sv|../CLK_DIV/clk_div.sv|../Async_FIFO/FIFO_MEM.sv|../Async_FIFO/FIFO_full.sv|../Async_FIFO/FIFO_empty.sv|../Async_FIFO/DF_Sync.sv|../Async_FIFO/Asynchronous_FIFO.sv|../ALU/ALU.sv|../ALU/myPkg.sv|
+!s90 -f|sourcefile.txt|
+!i113 0
+R24
+R10
+n@s@y@s_@t@o@p_@t@b@b@b@b
+vUART_RX
+R12
+R13
+R15
+!i10b 1
+!s100 ]6l`M4BK`FM@37@5G_:Wn0
+I=oi2Y39k<_3l1YiC3iC3=0
+S1
+R4
+w1771513507
+8../UART_RX/UART_RX.sv
+F../UART_RX/UART_RX.sv
+!i122 61
+L0 1 108
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@u@a@r@t_@r@x
+vUART_RX_DEV_ratio
+R12
+R13
+R15
+!i10b 1
+!s100 aNefN?fFA>J_QE_i_?@5M3
+I^bR5LY^KG=VfZ^@mGBjR?3
+S1
+R4
+w1771540162
+8../SYSTEM_TOP/UART_RX_DEV_ratio.sv
+F../SYSTEM_TOP/UART_RX_DEV_ratio.sv
+!i122 61
+R31
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@u@a@r@t_@r@x_@d@e@v_ratio
+vUART_RX_FSM
+R12
+R13
+R15
+!i10b 1
+!s100 PjJSGQBfzEHYaITH8F^7g2
+Io00L2YAGETlAA@[YB?D7m1
+S1
+R4
+w1767461700
+8../UART_RX/UART_RX_FSM.sv
+F../UART_RX/UART_RX_FSM.sv
+!i122 61
+L0 1 158
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@u@a@r@t_@r@x_@f@s@m
+vUART_TX
+R12
+R13
+R15
+!i10b 1
+!s100 YY3z=TN<SmjkSgQVAmzDA3
+I^<0?ETVgJl]8aa]U_9:9i0
+S1
+R4
+w1771528046
+8../UART_TX/UART_TX.sv
+F../UART_TX/UART_TX.sv
+!i122 61
+L0 1 68
+R16
+R20
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 0
+R24
+R10
+n@u@a@r@t_@t@x
