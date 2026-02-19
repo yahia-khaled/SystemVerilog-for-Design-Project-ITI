@@ -36,12 +36,3 @@ Used for all sequential logic (Registers, Counters, FIFO memory). This enforces 
 ### `always_comb`
 
 Used for combinational logic (ALU operations, next-state logic in FSMs). It guarantees auto-sensitivity to all read variables, preventing simulation/synthesis mismatches.
-
----
-
-## 5. Advanced Parameterization
-
-Extensive use of `#(parameter ...)` in module instantiations to create highly reusable IP blocks.
-
-- The `Asynchronous_FIFO` dynamically adjusts its address pointer widths based on the `DEPTH` parameter using the `$clog2()` system function.
-- Register widths, ALU bus sizes, and Clock Divider ratios are parameterized at the top level (`Final_system.sv`) for rapid scalability.
