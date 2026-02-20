@@ -107,6 +107,9 @@ always_comb begin
                 end
             end
         end
+        default: begin
+            next_state = IDLE;
+        end
     endcase
 end    
 
