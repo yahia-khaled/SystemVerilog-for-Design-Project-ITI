@@ -79,40 +79,28 @@ always_comb begin
     o_ser_en = 0;
    case (current_state)
         IDLE: begin
-            // busy_comb = 0;
             o_busy = 0;
-            // mux_sel_comb = 3;
             o_mux_sel = 3;
         end
         START: begin
-            // busy_comb = 1;
             o_busy = 1;
-            // mux_sel_comb = 0;
             o_mux_sel = 0;
         end
         SERIAL: begin
-            // busy_comb = 1;
             o_busy = 1;
             o_ser_en = 1;
-            // mux_sel_comb = 1;
             o_mux_sel = 1;
         end
         PARTY: begin
-            // busy_comb = 1;
             o_busy = 1;
-            // mux_sel_comb = 2;
             o_mux_sel = 2;
         end
         STOP: begin
-            // busy_comb = 1;   
             o_busy = 1;   
-            // mux_sel_comb = 3;
             o_mux_sel = 3;
         end
         default: begin
-            // busy_comb = 0;
             o_busy = 0;
-            // mux_sel_comb = 0;
             o_mux_sel = 0;
         end
    endcase 
