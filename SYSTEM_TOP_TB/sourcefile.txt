@@ -9,6 +9,6 @@
 ../RegFile/*.*v
 ../RST_Sync/*.*v
 ../System_ctrl/*.*v
-../SYSTEM_TOP/*.*v
+../SYSTEM_TOP_TB/*.*v
 ../UART_RX/*.*v
 ../UART_TX/*.*v
